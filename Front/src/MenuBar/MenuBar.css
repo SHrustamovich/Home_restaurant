@@ -1,0 +1,9 @@
+.menu{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.cat,.about,.can{
+    text-decoration: none;
+    color: blue;
+}

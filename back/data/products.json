@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Osh",
+        "price": 60000,
+        "categoryId": 1
+    },
+    {
+        "id": 2,
+        "name": "Log'mon",
+        "price": 30000,
+        "categoryId": 1
+    },
+    {
+        "id": 3,
+        "name": "Norin",
+        "price": 50000,
+        "categoryId": 1
+    },
+    {
+        "id": 4,
+        "name": "Qovurdoq",
+        "price": 50000,
+        "categoryId": 1
+    },
+    {
+        "id": 5,
+        "name": "Monti",
+        "price": 40000,
+        "categoryId": 1
+    },
+    {
+        "id": 6,
+        "name": "Kobob",
+        "price": 150000,
+        "categoryId": 1
+    },
+    {
+        "id": 7,
+        "name": "Sandwich",
+        "price": 30000,
+        "categoryId": 2
+    },
+    {
+        "id": 8,
+        "name": "Cheeseburger",
+        "price": 40000,
+        "categoryId": 2
+    },
+    {
+        "id": 9,
+        "name": "Pizsa",
+        "price": 80000,
+        "categoryId": 2
+    },
+    {
+        "id": 10,
+        "name": "Hot Dog",
+        "price": 30000,
+        "categoryId": 2
+    },
+    {
+        "id": 11,
+        "name": "Coca-cola",
+        "price": 10000,
+        "categoryId": 3
+    },
+    {
+        "id": 12,
+        "name": "Fanta",
+        "price": 10000,
+        "categoryId": 3
+    },
+    {
+        "id": 13,
+        "name": "Chay",
+        "price": 5000,
+        "categoryId": 3
+    },
+    {
+        "id": 14,
+        "name": "Coffe",
+        "price": 20000,
+        "categoryId": 3
+    },
+    {
+        "id": 15,
+        "name": "Late",
+        "price": 30000,
+        "categoryId": 3
+    },
+    {
+        "id": 16,
+        "name": "Ice-tea",
+        "price": 20000,
+        "categoryId": 3
+    }
+]
